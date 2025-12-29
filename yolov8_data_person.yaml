@@ -1,0 +1,4 @@
+train: datasets/images
+val: datasets/images  # or a separate val split
+nc: 1
+names: ['person']

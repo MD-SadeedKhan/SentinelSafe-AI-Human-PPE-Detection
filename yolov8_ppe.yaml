@@ -1,0 +1,19 @@
+# Number of classes
+nc: 10
+
+# Class names (must match classes.txt)
+names: 
+  - person
+  - hard-hat
+  - gloves
+  - mask
+  - glasses
+  - boots
+  - vest
+  - ppe-suit
+  - ear-protector
+  - safety-harness
+
+# Paths to dataset
+train: datasets/images/train
+val:   datasets/images/val
